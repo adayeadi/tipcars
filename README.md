@@ -1,5 +1,4 @@
 # Tipcars
-Abstract
 The aim of this bachelor thesis is to obtain data using web scraping technology and subsequent analysis of this data using exploratory analysis and data mining techniques to identify interesting patterns and trends in the Prague used car market. The thesis is divided into theoretical and practical parts.
 
 In the theoretical part, the field of data mining is introduced in detail, including the description of basic concepts, selected methods, their applications, and evaluation methods. Furthermore, the CRISP-DM methodology is described, which provides a framework for managing data mining projects and will be used in the practical part of the work. Subsequently, the focus is on web scraping technology, its principles, tools, and ethical aspects associated with this field.
