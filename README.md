@@ -15,6 +15,9 @@ V praktické části je detailně popsán proces získávání dat z online auto
 
 # K čemu slouží jednotlivé soubory?
 •	tipcars_scraper – web scraper pro extrakce dat ze stránek tipcars.com
+
 •	tipcars_data_zpracovani – predzracování dat
+
 •	tipcars_exploratory – explorační analýza a korelační analýza
+
 •	tipcars_optimal_cluster – script pro hledání optimálního počtu shluků
